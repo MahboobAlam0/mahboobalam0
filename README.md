@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://mahboob-alam-portfolio.netlify.app" target="_blank">
-    <img src="" alt="My Portfolio" width="600" />
+    <img src="https://github.com/MahboobAlam0/mahboobalam0/blob/main/mahboobportfolio.jpg" alt="My Portfolio" width="600" />
   </a>
 </p>
 
