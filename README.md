@@ -61,7 +61,7 @@
 ## 📄 Resume
 
 📌 Check out my latest resume:  
-📎 [**Click to View Resume**](https://drive.google.com/file/d/1TnCDIEjtAvykDZ8mGKRvmiiP_ETJ4bUX/view?usp=sharing)
+📎 [**Click to View Resume**](https://drive.google.com/file/d/1hGRGsyG-ti9ewg3G4wiaj9IxH8d9eqqg/view?usp=sharing)
 
 ---
 
