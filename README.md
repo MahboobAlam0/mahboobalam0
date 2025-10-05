@@ -20,9 +20,9 @@
 
 - 🎓 M.Tech Data Science Student at **DIAT-DRDO, Pune**
 - 🧠 Passionate about Data Science, ML, and AI
-- 🐍 Skilled in Python, NumPy, Pandas, Scikit-learn
+- 🐍 Skilled in Python, NumPy, Pandas, Scikit-learn, PyTorch
 - 🔬 Exploring Deep Learning, Computer Vision 
-- 🎯 Aiming for Data Scientist role
+- 🎯 Aiming for Data Scientist role, Machine Learning Engineer role
 
 ---
 
