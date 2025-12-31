@@ -10,31 +10,6 @@
 
 <br />
 
-<!-- 🏆 GITHUB TROPHIES (Gamification) -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MahboobAlam0&theme=onestar&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
-</div>
-
-<br />
-
-<!-- 🤙 Social Badges (Clean & Centered) -->
-<div align="center">
-  <a href="https://mahboob-alam-portfolio.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-1e293b?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/mahboobalam786" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.kaggle.com/armahboobalam" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-  </a>
-  <a href="mailto:mahboobalam7131@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</div>
-
-<br />
-
 <!-- 👨‍💻 ABOUT ME (2-Column Layout) -->
 <table>
   <tr>
@@ -90,11 +65,27 @@
 
 <br />
 
-<!-- 🔥 STREAK STATS (More Reliable) -->
-<h2 align="center">🔥 Coding Streak</h2>
-
+<!-- 🤙 Connect & Views -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahboobAlam0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <h3>🔗 <a href="https://mahboob-alam-portfolio.netlify.app" target="_blank">Visity My Portfolio Website</a></h3>
+  
+  <p>
+    <a href="https://www.linkedin.com/in/mahboobalam786" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://www.kaggle.com/armahboobalam" target="_blank">
+      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+    </a>
+    <a href="mailto:mahboobalam7131@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+  </p>
+  
+  <br />
+  
+  <!-- Simple Profile Views Counter (Usually very reliable) -->
+  <img src="https://komarev.com/ghpvc/?username=MahboobAlam0&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
+
 </div>
 
 <br />
