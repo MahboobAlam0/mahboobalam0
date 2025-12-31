@@ -1,11 +1,11 @@
 <!-- 🌌 Header with Dynamic Gradient -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7c3aed,2563eb&height=280&section=header&text=Mahboob%20Alam&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Data%20Scientist%20%7C%20Machine%20Learning%20Engineer%20%7C%20Researcher&descAlignY=70&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7c3aed,2563eb&height=280&section=header&text=Mahboob%20Alam&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Data%20Scientist%20%7C%20Machine%20Learning%20Engineer&descAlignY=70&descAlign=50" alt="Header" />
 </div>
 
 <!-- ⚡ Typing Intro -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&lines=Building+Physics-Informed+AI+(PIAU-Net);Transforming+Data+into+Business+ROI;Exploring+Deep+Learning+at+DIAT-DRDO" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&lines=Building+Physics-Informed+Attention U-Net+(PIAU-Net);Transforming+Data+into+Business+ROI;Exploring+Deep+Learning+at+DIAT-DRDO" alt="Typing SVG" />
 </div>
 
 <br />
@@ -36,7 +36,7 @@
       <h2 style="border-bottom:none">👨‍💻 About Me</h2>
       <ul>
         <li>🎓 <strong>M.Tech Data Science Scholar</strong> at <b>DIAT-DRDO, Pune</b>.</li>
-        <li>🔬 <strong>Researcher:</strong> Developing <b>PIAU-Net</b>, a Physics-Informed Attention U-Net for underwater vision.</li>
+        <li>🔬 <strong>Research:</strong> Developing <b>PIAU-Net</b>, a Physics-Informed Attention U-Net for underwater vision.</li>
         <li>💼 <strong>Job Focus:</strong> Applying ML to solve high-impact business problems (like my <b>Churn ROI</b> system).</li>
         <li>🧠 <strong>Passionate about:</strong> Deep Learning, Computer Vision, and interpreting model decisions.</li>
         <li>⚡ <strong>Main Stack:</strong> Python, PyTorch, Scikit-Learn, Streamlit.</li>
