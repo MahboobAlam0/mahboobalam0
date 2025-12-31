@@ -10,6 +10,13 @@
 
 <br />
 
+<!-- 🏆 GITHUB TROPHIES (Gamification) -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MahboobAlam0&theme=onestar&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
+</div>
+
+<br />
+
 <!-- 🤙 Social Badges (Clean & Centered) -->
 <div align="center">
   <a href="https://mahboob-alam-portfolio.netlify.app" target="_blank">
@@ -26,7 +33,6 @@
   </a>
 </div>
 
-<br />
 <br />
 
 <!-- 👨‍💻 ABOUT ME (2-Column Layout) -->
@@ -55,13 +61,13 @@
 
 | Project | Domain | Tech Stack |
 |---|---|---|
-| [**Physics-Informed Attention U-Net**](https://mahboob-alam-portfolio.netlify.app/) <br/> _Creating the next-gen of Underwater Vision._ | 🧬 **Research** | `PyTorch` `Computer Vision` `Physics-ML` |
-| [**Business Churn ROI System**](https://mahboob-alam-portfolio.netlify.app/) <br/> _Predicting profit, not just churn._ | 💰 **Business** | `Scikit-Learn` `Streamlit` `Cost-Analysis` |
+| [**Physics-Informed Attention U-Net**](https://github.com/MahboobAlam0/piaunet) <br/> _Creating the next-gen of Underwater Vision._ | 🧬 **Research** | `PyTorch` `Computer Vision` `Physics-ML` |
+| [**Business Churn ROI System**](https://github.com/MahboobAlam0/businesschurn) <br/> _Predicting profit, not just churn._ | 💰 **Business** | `Scikit-Learn` `Streamlit` `Cost-Analysis` |
 | [**Medical Insurance Analysis**](https://github.com/MahboobAlam0/medicalinsurancecostanalysis) <br/> _Uncovering the "Smoker Multiplier" effects on pricing using statistical regression._ | ⚕️ **Analytics** | `Pandas` `Regression` `EDA` |
 
 <br />
 
-<!-- 🛠 TECH STACK (Modern Badges) -->
+<!-- 🛠 TECH STACK -->
 <h2 align="center">🛠 Tools & Technologies</h2>
 
 <div align="center">
@@ -84,12 +90,11 @@
 
 <br />
 
-<!-- 📈 STATS (Tokyonight Theme to match) -->
-<h2 align="center">⚡ GitHub Analytics</h2>
+<!-- 🔥 STREAK STATS (More Reliable) -->
+<h2 align="center">🔥 Coding Streak</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahboobAlam0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahboobAlam0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahboobAlam0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br />
