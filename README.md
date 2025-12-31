@@ -1,6 +1,6 @@
 <!-- 🌌 Header with Dynamic Gradient -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7c3aed,2563eb&height=280&section=header&text=Mahboob%20Alam&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Data%20Scientist%20%7C%20Machine%20Learning%20Engineer&descAlignY=70&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7c3aed,2563eb&height=280&section=header&text=Mahboob%20Alam&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc= Enty Level Data%20Scientist%20%7C%20Machine%20Learning%20Engineer&descAlignY=70&descAlign=50" alt="Header" />
 </div>
 
 <!-- ⚡ Typing Intro -->
@@ -36,7 +36,7 @@
       <h2 style="border-bottom:none">👨‍💻 About Me</h2>
       <ul>
         <li>🎓 <strong>M.Tech Data Science Scholar</strong> at <b>DIAT-DRDO, Pune</b>.</li>
-        <li>🔬 <strong>Research:</strong> Developing <b>PIAU-Net</b>, a Physics-Informed Attention U-Net for underwater vision.</li>
+        <li>🔬 <strong>Researcher:</strong> Developing <b>PIAU-Net</b>, a Physics-Informed Attention U-Net for underwater vision.</li>
         <li>💼 <strong>Job Focus:</strong> Applying ML to solve high-impact business problems (like my <b>Churn ROI</b> system).</li>
         <li>🧠 <strong>Passionate about:</strong> Deep Learning, Computer Vision, and interpreting model decisions.</li>
         <li>⚡ <strong>Main Stack:</strong> Python, PyTorch, Scikit-Learn, Streamlit.</li>
