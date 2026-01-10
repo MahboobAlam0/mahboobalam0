@@ -38,7 +38,7 @@
 |---|---|---|
 | [**Physics-Informed Attention U-Net**](https://github.com/MahboobAlam0/piaunet) <br/> _Creating the next-gen of Underwater Vision._ | 🧬 **Research** | `PyTorch` `Computer Vision` `Physics-ML` |
 | [**Business Churn ROI System**](https://github.com/MahboobAlam0/businesschurn) <br/> _Predicting profit, not just churn._ | 💰 **Business** | `Scikit-Learn` `Streamlit` `Cost-Analysis` |
-| [**Medical Insurance Analysis**](https://github.com/MahboobAlam0/medicalinsurancecostanalysis) <br/> _Uncovering the "Smoker Multiplier" effects on pricing using statistical regression._ | ⚕️ **Analytics** | `Pandas` `Regression` `EDA` |
+| [**Urban Mobility Operations Center**](https://github.com/MahboobAlam0/urban-mobility-ops) <br/> _Production-grade ETL Pipeline for CitiBike logistics._ | ⚙️ **Data Eng** | `Python` `MySQL` `CI/CD` |
 
 <br />
 
