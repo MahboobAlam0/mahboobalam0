@@ -1,108 +1,143 @@
-# 👋 Mahboob Alam  
-**Entry-Level Data Scientist | Machine Learning Engineer**
+# Mahboob Alam  
+**Machine Learning Engineer | Data Scientist**
 
 📍 Pune, India  
-🎓 M.Tech (Data Science)  
-💼 Open to Entry-Level ML / Data Science Roles  
+🎓 M.Tech (Data Science) — DIAT (DRDO)  
+💼 Open to Entry-Level / Junior ML & Data Science Roles  
 
 ---
 
-## 👨‍💻 About Me
+## Profile
 
-I’m an **entry-level Data Scientist / ML Engineer** focused on building **practical, business-aware machine learning systems**.
+I am a Machine Learning Engineer and Data Scientist with hands-on experience building **end-to-end ML systems** under realistic constraints: data leakage prevention, deployment limits, cost-aware decision-making, and reproducibility.
 
-I don’t chase abstract metrics or academic novelty.  
-I care about:
-- Solving the *right* problem  
-- Choosing models that make sense under constraints  
-- Translating predictions into **real decisions and ROI**
+My work emphasizes:
+- Correct problem framing before modeling  
+- Leakage-free evaluation and disciplined experimentation  
+- Lightweight, deployable architectures over oversized models  
+- Translating model outputs into **real decisions**, not just metrics  
 
-My background combines **hands-on ML development**, **data engineering basics**, and **clear problem framing**—the things junior hires usually lack.
-
----
-
-## 🚀 Featured Projects
-
-### 💰 Business Churn ROI System
-**Type:** Applied Machine Learning (Business-Focused)  
-**Tech:** Scikit-learn, Python, Streamlit  
-
-- Built a churn prediction system that **optimizes profit**, not accuracy  
-- Incorporated **customer value, retention cost, and decision thresholds**
-- Demonstrates how ML outputs change when **business costs are explicit**
-
-✅ Shows I understand *why* models are used—not just *how* to train them  
-
-👉 Repo: https://github.com/MahboobAlam0/businesschurn  
+I focus on ML systems that remain valid outside notebooks and demos.
 
 ---
 
-### 🧠 Physics-Informed Attention U-Net (PIAU-Net)
-**Type:** Advanced ML / Computer Vision Project  
-**Tech:** PyTorch, Deep Learning, Computer Vision  
+## Featured Projects (Top 4)
 
-- Designed a **custom U-Net architecture** with attention layers  
-- Integrated **domain constraints** instead of blindly stacking layers  
-- Focused on robustness and generalization, not demo visuals
+### HMT-ECGNet — Lightweight Hierarchical ECG Classification  
+**Deep Learning · Signal Processing · ML Engineering**  
+**Stack:** Python, PyTorch, PTB-XL, FastAPI, Streamlit  
 
-✅ Shows depth beyond “import model → fit → predict”  
+- Designed a **hierarchical multi-lead ECG classification model** with only **338K parameters**
+- Enforced **strict patient-level, leakage-free training and evaluation** using official PTB-XL splits
+- Achieved **Macro-AUROC ≈ 0.92** and **Macro-F1 ≈ 0.73** across 5 diagnostic superclasses
+- Outperformed a **ResNet-1D baseline (8.7M parameters)** while using **25× fewer parameters**
+- Built full inference pipelines including:
+  - Binary myocardial infarction screening  
+  - Calibrated threshold optimization  
+  - REST API–based inference using FastAPI
+- Developed a **Streamlit demo** for real-time 12-lead ECG visualization and predictions  
 
-👉 Repo: https://github.com/MahboobAlam0/piaunet  
+**Why this matters:**  
+Demonstrates production-aware ML: correct evaluation, deployment constraints, and system-level thinking.
 
----
-
-### ⚙️ Urban Mobility Operations Center
-**Type:** Data Engineering + Analytics  
-**Tech:** Python, MySQL, ETL Pipelines  
-
-- Built an end-to-end **data ingestion and transformation pipeline**
-- Modeled structured data for operational analysis
-- Focused on reliability, schema design, and maintainability
-
-✅ Shows I can handle data *before* it reaches a model  
-
-👉 Repo: https://github.com/MahboobAlam0/urban-mobility-ops  
+🔗 Repo: https://github.com/MahboobAlam0  
 
 ---
 
-## 🛠 Technical Skills (What I Can Actually Do)
+### Physics-Informed Attention U-Net (PIAUNet)  
+**Deep Learning · Computer Vision · Research**  
+**Stack:** PyTorch  
+
+- Designed a **custom U-Net architecture with attention mechanisms**
+- Integrated **physics-informed domain constraints** instead of blindly increasing depth
+- Focused on robustness and generalization rather than visual demos
+- Validated using Dice coefficient, mIoU, and pixel accuracy
+- Resulted in a **peer-reviewed research publication**
+
+**Why this matters:**  
+Shows architectural reasoning and domain-aware deep learning, not template reuse.
+
+🔗 Repo: https://github.com/MahboobAlam0/piaunet  
+
+---
+
+### Business Metric-Driven Churn Intervention System  
+**Applied Machine Learning · Decision Optimization**  
+**Stack:** Python, scikit-learn, Streamlit  
+
+- Built a churn analysis system driven by **business metrics, not accuracy**
+- Integrated:
+  - Churn probability  
+  - Customer lifetime value (CLV)  
+  - Retention intervention cost
+- Prioritized **high-risk, high-value customers** while excluding low-impact churn cases
+- Performed **sensitivity analysis** across multiple cost assumptions  
+
+**Why this matters:**  
+Most churn models stop at ROC-AUC. This one forces economically rational decisions.
+
+🔗 Repo: https://github.com/MahboobAlam0/businesschurn  
+
+---
+
+### FinSight-AI — Financial News Intelligence System  
+**NLP · Information Extraction · Analytics**  
+**Stack:** Python, NLP, LLM APIs, Streamlit  
+
+- Built an end-to-end system to **analyze financial news and extract actionable insights**
+- Performed:
+  - News ingestion and preprocessing  
+  - Sentiment and context-aware analysis  
+  - Structured insight generation for decision support
+- Designed the system for **real-world financial monitoring**, not toy NLP demos
+- Delivered insights via an interactive Streamlit interface  
+
+**Why this matters:**  
+Demonstrates applied NLP, real-world data handling, and system integration.
+
+🔗 Repo: https://github.com/MahboobAlam0/finsight-ai  
+
+---
+
+## Publications
+
+- **Alam, M. et al.**,  
+  *“Physics-Informed Attention U-Net (PIAUNet): An Enhanced U-Net Framework for Underwater Segmentation in Aquaculture”*,  
+  **Indian Journal of Technical Education**, Vol. 48, No. 2, December 2025. *(Peer-reviewed)*
+
+---
+
+## Technical Skills
 
 **Programming & Data**
-- Python (ML pipelines, data processing)
-- SQL (joins, aggregations, analytics queries)
+- Python, SQL  
+- Pandas, NumPy  
 
 **Machine Learning**
-- Supervised ML (classification, regression)
-- Model evaluation & trade-offs
-- Cost-sensitive and ROI-driven modeling
+- Classification & multi-label learning  
+- Imbalanced learning  
+- Model evaluation & error analysis  
+- Threshold and cost optimization  
 
 **Deep Learning**
-- PyTorch
-- CNNs (U-Net variants)
-- Attention mechanisms
+- PyTorch  
+- CNNs, lightweight architectures  
+- Hierarchical and attention-based models  
+- Loss engineering  
 
-**Data Tools**
-- Pandas, NumPy
-- Streamlit (ML demos & dashboards)
-- MySQL
+**ML Engineering**
+- Reproducible pipelines  
+- Leakage-free evaluation  
+- API-based inference (FastAPI)  
+- Streamlit-based demos  
 
----
-
-## 🎯 Roles I’m Targeting
-
-I’m actively applying for:
-- Entry-Level Data Scientist
-- Junior Machine Learning Engineer
-- Data Analyst (ML-heavy / technical)
-
-I’m especially interested in teams where:
-- ML supports **real business decisions**
-- Clean data pipelines matter
-- Junior engineers are expected to *think*, not just run notebooks
+**Signal Processing**
+- ECG filtering, normalization, resampling  
+- Time-series preprocessing  
 
 ---
 
-## 🔗 Connect
+## Links
 
 🌐 Portfolio: https://mahboob-alam-portfolio.netlify.app  
 💼 LinkedIn: https://www.linkedin.com/in/mahboobalam786  
@@ -110,6 +145,3 @@ I’m especially interested in teams where:
 📧 Email: mahboobalam7131@gmail.com  
 
 ---
-
-*Recruiter note:*  
-I’m early in my career, but I already understand **how ML fails in the real world**—and how to design around that.
