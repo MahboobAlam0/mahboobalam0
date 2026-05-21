@@ -126,14 +126,4 @@ A suite of underwater fish-segmentation models built during my research internsh
 **Focus areas:** CNNs · Transformers · Semantic Segmentation · Physics-Informed Neural Networks · QLoRA/PEFT · Retrieval-Augmented Generation · SHAP · Grad-CAM
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahboobAlam0&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahboobAlam0&layout=compact&hide_border=true" alt="Top Languages" height="165">
-</p>
-
----
-
 <p align="center"><i>Open to Full-Time ML Engineer / Data Scientist roles — let's talk.</i></p>
