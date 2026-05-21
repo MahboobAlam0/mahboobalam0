@@ -13,6 +13,7 @@
   <a href="https://mahboob-alam-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/mahboobalam786"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.kaggle.com/armahboobalam"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
+  <a href="https://huggingface.co/mahboobalam0"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"></a>
   <a href="mailto:mahboobalam7131@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
