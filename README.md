@@ -9,31 +9,31 @@ I'm an M.Tech graduate in Data Science from the Defence Institute of Advanced Te
 </p>
 
 <p align="center">
-📍 Pune, India • 💼 Open to AI Engineer / Machine Learning Engineer Opportunities
+  Pune, India • Open to AI Engineer / Machine Learning Engineer Opportunities
 </p>
 
 <p align="center">
-<a href="YOUR_PORTFOLIO">Portfolio</a> •
-<a href="YOUR_LINKEDIN">LinkedIn</a> •
-<a href="YOUR_HUGGINGFACE">Hugging Face</a> •
+<a href="https://mahboob-alam-portfolio.netlify.app">Portfolio</a> •
+<a href="https://www.linkedin.com/in/mahboobalam786/">LinkedIn</a> •
+<a href="https://huggingface.co/mahboobalam0">Hugging Face</a> •
 <a href="mailto:mahboobalam7131@gmail.com">Email</a>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# About Me
 
-- 🎓 M.Tech in Data Science from DIAT, Pune
-- 🔬 Research Intern working on underwater Computer Vision
-- 🤖 Interested in Computer Vision, Deep Learning, LLMs, and Generative AI
-- 🚀 Experience building AI applications using FastAPI and Docker
-- 📄 Published research in the Indian Journal of Technical Education
+-  M.Tech in Data Science from DIAT, Pune
+-  Research Intern working on underwater Computer Vision
+-  Interested in Computer Vision, Deep Learning, LLMs, and Generative AI
+-  Experience building AI applications using FastAPI and Docker
+-  Published research in the Indian Journal of Technical Education
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
-## 🧠 Distill — Text-to-SQL Assistant
+## Distill — Text-to-SQL Assistant
 
 **PyTorch • QLoRA • PEFT • FastAPI • Docker**
 
@@ -41,11 +41,10 @@ I'm an M.Tech graduate in Data Science from the Defence Institute of Advanced Te
 - Improved Exact Match Accuracy from **2.33% → 30.67%**.
 - Deployed the model using FastAPI and Docker.
 
-🔗 GitHub
 
 ---
 
-## 💬 AI Clinical RAG
+## AI Clinical RAG
 
 **Python • Qdrant • Sentence Transformers • FastAPI**
 
@@ -53,11 +52,10 @@ I'm an M.Tech graduate in Data Science from the Defence Institute of Advanced Te
 - Improved Accuracy@1 from **70.0% → 82.3%**.
 - Implemented semantic search using Qdrant vector database.
 
-🔗 GitHub
 
 ---
 
-## 🌊 PIAUNet
+##  PIAUNet
 
 **PyTorch • Computer Vision**
 
@@ -65,11 +63,10 @@ I'm an M.Tech graduate in Data Science from the Defence Institute of Advanced Te
 - Achieved **97.38% mIoU**.
 - Published in the Indian Journal of Technical Education.
 
-🔗 GitHub
 
 ---
 
-## ❤️ HMT-ECGNet
+## HMT-ECGNet
 
 **PyTorch • CNN • FastAPI**
 
@@ -77,7 +74,6 @@ I'm an M.Tech graduate in Data Science from the Defence Institute of Advanced Te
 - Achieved **0.92 Macro-AUROC** with only **0.34M parameters**.
 - Deployed using FastAPI.
 
-🔗 GitHub
 
 ---
 
@@ -101,7 +97,7 @@ FastAPI • Docker • Git • GitHub Actions • Linux
 
 ---
 
-## 📄 Publication
+## Publication
 
 **Physics-Informed Attention U-Net (PIAUNet): An Enhanced U-Net Framework for Underwater Segmentation in Aquaculture**
 
