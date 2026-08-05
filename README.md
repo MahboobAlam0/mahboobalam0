@@ -77,7 +77,7 @@ I'm an M.Tech graduate in Data Science from the Defence Institute of Advanced Te
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 ### Languages
 
