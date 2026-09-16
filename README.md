@@ -13,7 +13,7 @@ I'm an M.Tech graduate in Data Science from the Defence Institute of Advanced Te
 </p>
 
 <p align="center">
-<a href="https://mahboob-alam-portfolio.netlify.app">Portfolio</a> •
+<a href="https://mahboobalam.netlify.app">Portfolio</a> •
 <a href="https://www.linkedin.com/in/mahboobalam786/">LinkedIn</a> •
 <a href="https://huggingface.co/mahboobalam0">Hugging Face</a> •
 <a href="mailto:mahboobalam7131@gmail.com">Email</a>
