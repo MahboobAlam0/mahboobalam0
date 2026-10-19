@@ -1,108 +1,146 @@
-<h1 align="center">Hi, I'm Mahboob Alam 👋</h1>
+<div align="center">
 
-<p align="center">
-<b>M.Tech in Data Science | Computer Vision | Generative AI | Machine Learning</b>
-</p>
+# Mahboob Alam
 
-<p align="center">
-I'm an M.Tech graduate in Data Science from the Defence Institute of Advanced Technology (DIAT), Pune. I enjoy building AI applications using Computer Vision, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG). My interests lie in developing end-to-end machine learning solutions that can be trained, evaluated, and deployed for real-world applications.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=4F8EF7&center=true&vCenter=true&width=600&lines=AI+%2F+Machine+Learning+Engineer;Computer+Vision+%7C+Generative+AI+%7C+LLMs;Building+end-to-end+ML+systems" alt="Typing SVG" />
 
-<p align="center">
-  Pune, India • Open to AI Engineer / Machine Learning Engineer Opportunities
-</p>
+**M.Tech in Data Science** &nbsp;·&nbsp; Defence Institute of Advanced Technology (DIAT), Pune
 
-<p align="center">
-<a href="https://mahboobalam.netlify.app">Portfolio</a> •
-<a href="https://www.linkedin.com/in/mahboobalam786/">LinkedIn</a> •
-<a href="https://huggingface.co/mahboobalam0">Hugging Face</a> •
-<a href="mailto:mahboobalam7131@gmail.com">Email</a>
-</p>
+<a href="https://mahboobalam.netlify.app"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/mahboobalam786/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://huggingface.co/mahboobalam0"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
+<a href="mailto:mahboobalam7131@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<sub>Pune, India &nbsp;·&nbsp; Open to AI Engineer and Machine Learning Engineer roles</sub>
+
+</div>
 
 ---
 
-# About Me
+## About
 
--  M.Tech in Data Science from DIAT, Pune
--  Research Intern working on underwater Computer Vision
--  Interested in Computer Vision, Deep Learning, LLMs, and Generative AI
--  Experience building AI applications using FastAPI and Docker
--  Published research in the Indian Journal of Technical Education
+I build AI applications across **Computer Vision**, **Large Language Models**, and **Retrieval-Augmented Generation**. My focus is on end-to-end machine learning: taking a model from data and training through evaluation to a deployed, usable service.
 
----
-
-# Featured Projects
-
-## Distill — Text-to-SQL Assistant
-
-**PyTorch • QLoRA • PEFT • FastAPI • Docker**
-
-- Fine-tuned Qwen2.5-3B on 28K Text-to-SQL examples using QLoRA.
-- Improved Exact Match Accuracy from **2.33% → 30.67%**.
-- Deployed the model using FastAPI and Docker.
-
+- Research Intern working on underwater computer vision
+- Fine-tuning LLMs with parameter-efficient methods (PEFT, QLoRA)
+- Shipping models as APIs with FastAPI and Docker
+- Published researcher, *Indian Journal of Technical Education* (2025)
 
 ---
 
-## AI Clinical RAG
+## Featured Projects
 
-**Python • Qdrant • Sentence Transformers • FastAPI**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- Developed a Retrieval-Augmented Generation system for clinical question answering.
-- Improved Accuracy@1 from **70.0% → 82.3%**.
-- Implemented semantic search using Qdrant vector database.
+### Distill
+**Text-to-SQL Assistant**
 
+Fine-tuned Qwen2.5-3B on 28K Text-to-SQL examples using QLoRA and served it through a containerized API.
+
+| Metric | Base | Fine-tuned |
+|:--|:--:|:--:|
+| Exact Match | 2.33% | **30.67%** |
+
+`PyTorch` `QLoRA` `PEFT` `FastAPI` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+### AI Clinical RAG
+**Retrieval-Augmented QA for Clinical Questions**
+
+A RAG pipeline for clinical question answering, with semantic search backed by the Qdrant vector database.
+
+| Metric | Baseline | Improved |
+|:--|:--:|:--:|
+| Accuracy@1 | 70.0% | **82.3%** |
+
+`Python` `Qdrant` `Sentence Transformers` `FastAPI`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### PIAUNet
+**Physics-Informed Attention U-Net**
+
+An enhanced U-Net for underwater image segmentation in aquaculture. Published in the *Indian Journal of Technical Education*.
+
+| Metric | Result |
+|:--|:--:|
+| mIoU | **97.38%** |
+
+`PyTorch` `Computer Vision` `Segmentation`
+
+</td>
+<td width="50%" valign="top">
+
+### HMT-ECGNet
+**Lightweight ECG Classification**
+
+A compact CNN for ECG classification that delivers strong performance at a fraction of typical model size, deployed as an API.
+
+| Metric | Result |
+|:--|:--:|
+| Macro-AUROC | **0.92** |
+| Parameters | **0.34M** |
+
+`PyTorch` `CNN` `FastAPI`
+
+</td>
+</tr>
+</table>
 
 ---
 
-##  PIAUNet
+## Tech Stack
 
-**PyTorch • Computer Vision**
+**Languages**
 
-- Developed a physics-informed Attention U-Net for underwater image segmentation.
-- Achieved **97.38% mIoU**.
-- Published in the Indian Journal of Technical Education.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
+**Machine Learning**
 
----
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-1F2937?style=flat-square)
+![CNNs](https://img.shields.io/badge/CNNs-1F2937?style=flat-square)
 
-## HMT-ECGNet
+**Generative AI**
 
-**PyTorch • CNN • FastAPI**
+![LLMs](https://img.shields.io/badge/LLMs-6D28D9?style=flat-square)
+![PEFT](https://img.shields.io/badge/PEFT-6D28D9?style=flat-square)
+![QLoRA](https://img.shields.io/badge/QLoRA-6D28D9?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-6D28D9?style=flat-square)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-6D28D9?style=flat-square)
 
-- Built a lightweight ECG classification model.
-- Achieved **0.92 Macro-AUROC** with only **0.34M parameters**.
-- Deployed using FastAPI.
+**Deployment and Tooling**
 
-
----
-
-# Tech Stack
-
-### Languages
-
-Python • SQL
-
-### Machine Learning
-
-PyTorch • Scikit-learn • OpenCV • CNNs • Transformers • Hugging Face
-
-### Generative AI
-
-LLMs • PEFT • QLoRA • RAG • Qdrant • Prompt Engineering
-
-### Deployment
-
-FastAPI • Docker • Git • GitHub Actions • Linux
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
 ## Publication
 
-**Physics-Informed Attention U-Net (PIAUNet): An Enhanced U-Net Framework for Underwater Segmentation in Aquaculture**
-
-Published in the **Indian Journal of Technical Education (2025)**
+> **Physics-Informed Attention U-Net (PIAUNet): An Enhanced U-Net Framework for Underwater Segmentation in Aquaculture**
+> *Indian Journal of Technical Education*, 2025
 
 ---
 
-⭐ I'm actively looking for opportunities where I can contribute to real-world AI and Machine Learning projects while continuing to learn and grow as an engineer.
+<div align="center">
+
+I'm looking for opportunities to contribute to real-world AI and machine learning projects while continuing to grow as an engineer.
+**Let's connect.**
+
+</div>
