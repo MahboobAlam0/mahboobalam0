@@ -11,13 +11,13 @@
 <a href="https://huggingface.co/mahboobalam0"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
 <a href="mailto:mahboobalam7131@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<sub>Pune, India &nbsp;·&nbsp; Open to AI Engineer and ML Engineer roles</sub>
+<sub>Open to AI Engineer and ML Engineer roles</sub>
 
 </div>
 
 <br>
 
-I build machine learning systems across computer vision and language models, and I care about the whole path: data, training, honest evaluation, and a deployed service someone can actually use. My research focuses on underwater computer vision, and on the LLM side I work with fine-tuning and retrieval-augmented generation.
+I build machine learning systems across computer vision and language models, and I care about the whole path: data, training, honest evaluation, and a deployed service someone can actually use. My research has centered on underwater computer vision, and on the LLM side I work with fine-tuning and retrieval-augmented generation.
 
 <br>
 
@@ -31,9 +31,9 @@ I build machine learning systems across computer vision and language models, and
 
 <br>
 
-## Now
+## Recently
 
-- **Research Intern** on underwater computer vision
+- **Completed** a research internship in underwater computer vision (April 2026)
 - **Published** in the *Indian Journal of Technical Education* (2025)
 - **Exploring** parameter-efficient fine-tuning and better retrieval for RAG
 
@@ -100,22 +100,14 @@ A compact CNN for ECG classification that keeps strong accuracy at a fraction of
 
 ## Toolkit
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,opencv,postgres,fastapi,docker,githubactions,git,linux&perline=10" alt="Tech stack" />
-
-<br><br>
-
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Transformers](https://img.shields.io/badge/Transformers-1F2937?style=flat-square)
-![LLMs](https://img.shields.io/badge/LLMs-6D28D9?style=flat-square)
-![PEFT](https://img.shields.io/badge/PEFT-6D28D9?style=flat-square)
-![QLoRA](https://img.shields.io/badge/QLoRA-6D28D9?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-6D28D9?style=flat-square)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-6D28D9?style=flat-square)
-
-</div>
+| | |
+|:--|:--|
+| **Programming** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **Machine Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-1F2937?style=flat-square) ![CNNs](https://img.shields.io/badge/CNNs-1F2937?style=flat-square) ![Transformers](https://img.shields.io/badge/Transformers-1F2937?style=flat-square) |
+| **LLMs & RAG** | ![Hugging Face Transformers](https://img.shields.io/badge/Hugging%20Face%20Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![PEFT](https://img.shields.io/badge/PEFT-6D28D9?style=flat-square) ![QLoRA](https://img.shields.io/badge/QLoRA-6D28D9?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-6D28D9?style=flat-square) ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square) ![Vector Embeddings](https://img.shields.io/badge/Vector%20Embeddings-6D28D9?style=flat-square) |
+| **Computer Vision** | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![TorchVision](https://img.shields.io/badge/TorchVision-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Albumentations](https://img.shields.io/badge/Albumentations-0E7490?style=flat-square) ![U-Net](https://img.shields.io/badge/U--Net-0E7490?style=flat-square) ![YOLO](https://img.shields.io/badge/YOLO-0E7490?style=flat-square) |
+| **Deployment & Tools** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white) ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white) |
 
 <br>
 
